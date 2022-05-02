@@ -7,4 +7,5 @@
 5. [ML practice](https://github.com/SinXfactor/everything_data_science/blob/master/ML_practice.ipynb)
 6. [Seaborn practice](https://github.com/SinXfactor/everything_data_science/blob/main/Seaborn%20tuts.ipynb)
 7. [Interactive Python Brief intro](https://github.com/SinXfactor/everything_data_science/blob/main/IPyWidgets_tuts.ipynb)
-8. []()
+8. [Zomato-EDA](https://github.com/SinXfactor/everything_data_science/blob/main/Zomata_EDA.ipynb)
+9. [Automted EDA](https://github.com/SinXfactor/everything_data_science/blob/main/Automated_EDA.ipynb)

@@ -5,3 +5,6 @@
 3. [Pandas practice](https://github.com/SinXfactor/everything_data_science/blob/master/Pandas_study-PDA.ipynb)
 4. [Matplotlib practice](https://github.com/SinXfactor/everything_data_science/blob/master/Matplotlib%20basics.ipynb)
 5. [ML practice](https://github.com/SinXfactor/everything_data_science/blob/master/ML_practice.ipynb)
+6. [Seaborn practice](https://github.com/SinXfactor/everything_data_science/blob/main/Seaborn%20tuts.ipynb)
+7. [Interactive Python Brief intro](https://github.com/SinXfactor/everything_data_science/blob/main/IPyWidgets_tuts.ipynb)
+8. []()
